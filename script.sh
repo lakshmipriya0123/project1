@@ -1,6 +1,6 @@
 #!/bin/bash
-read num
-echo "Enter value:" $num
+echo "Enter number:" 
+read $num
 
 
 
